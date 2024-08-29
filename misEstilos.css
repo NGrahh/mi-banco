@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-color: darkred;
+    background-color: red;
     color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     width: 40%;
@@ -8,8 +8,11 @@ body {
 }
 
 .logo img {
+    margin-top: 30px;
+    margin-bottom: 30px;
     height: 180px;
     width: 300px;
+
 }
 
 .saldo {
@@ -31,4 +34,16 @@ body {
 
 .fila {
     display: inline-block;
+}
+
+.cajaPadre{
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 30px;
+    margin-bottom: 30px;
+    box-shadow: 1px 1px 15px 3px;
+    padding: 10px;
+}
+h1{
+    margin: 10px;
 }

@@ -1,9 +1,9 @@
 {
     "banco": "BETHESDA SOFTWORKS",
-    "sucursal": "Springfield, IL",    
+    "sucursal": "Steam",    
     "titular": "Nicolás Grajales Hernández",
     "nro_cuenta": "1752461/08",    
-    "saldo": [ { "moneda": "USD", "monto": 725.09 }, { "moneda": "EUR", "monto": 195.67} ],
+    "saldo": [ { "moneda": "USD", "precio": 60.00  }, { "moneda": "EUR", "precio": 54.17} ],
     "cbu": "1562244781396451",
-    "abierto": "01/05/2021"
+    "abierto": "29/08/2024"
 }
